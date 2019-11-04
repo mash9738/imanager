@@ -1,0 +1,1376 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<modules>
+<module>
+<moduleID>ark</moduleID>
+<filename>arkmgmt.npm</filename>
+<title>Archive Versioning</title>
+<version>3.1.1.20060829</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/wYanihNgTEo~/StorageRelatedPlugins.zip
+]]>
+</url>
+<description>
+(ARK) Archive Versioning Plugin (requires Storage Shared plug-in)
+</description>
+</module>
+<module>
+<moduleID>ncs</moduleID>
+<filename>ncsmgmt.npm</filename>
+<title>Cluster Services</title>
+<version>3.2.0.20061201</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/wYanihNgTEo~/StorageRelatedPlugins.zip
+]]>
+</url>
+<description>
+(NCS) Cluster Services Management Plugin (requires Storage Shared plug-in)
+</description>
+</module>
+<module>
+<moduleID>DNSDHCP</moduleID>
+<filename>dnsdhcp.npm</filename>
+<title>DNSDHCP</title>
+<version>1.0.20060907</version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/vLrQuPWdUvA~/dnsdhcp.npm
+]]>
+</url>
+<description>DNS/DHCP Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_88_iMan26_Plugins.npm</filename>
+<title>eDirectory88 Plugins</title>
+<version>2.5.20071017</version>
+<min-required-version>2.6</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/QqqWSTsZwwE~/eDir_iMan26_Plugins.npm
+]]>
+</url>
+<description>eDirectory 8.8 Plugins</description>
+</module>
+<module>
+<moduleID>FTPAdmin</moduleID>
+<filename>FTPAdmin.npm</filename>
+<title>FTP</title>
+<version>1.1.20060922</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/8rSPWbdQNOQ~/FTPAdmin.npm
+]]>
+</url>
+<description>FTP Administration Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID>hms</moduleID>
+<filename>hmsplugin.npm</filename>
+<title>Health Monitor Services Plugins</title>
+<version>1.1.2.20051117</version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/iqqeSsgRfkI~/hmsplugin.npm
+]]>
+</url>
+<description>Health Monitor iManager Plugin</description>
+</module>
+<module>
+<moduleID>ifolder3</moduleID>
+<filename>iFolder3.npm</filename>
+<title>iFolder 3 iManager Module</title>
+<version>3.2.5347.1</version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/5YdJa9L14sM~/iFolder3.npm
+]]>
+</url>
+<description>iFolder 3 iManager Plugin</description>
+</module>
+<module>
+<moduleID>iPrint</moduleID>
+<filename>iPrint_NetWare_iMan26.npm</filename>
+<title>iPrint Management</title>
+<version>2.1.0.20061012</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/3fd57Hgi6_Y~/iPrint-plugins26.zip
+]]>
+</url>
+<description>iPrint Management Plugin for Netware</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID>iPrintX</moduleID>
+<filename>iPrint for Linux Servers.npm</filename>
+<title>iPrint Management for Linux</title>
+<version>2.5.5.20060626</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/3fd57Hgi6_Y~/iPrint-plugins26.zip
+]]>
+</url>
+<description>iPrint Management Plugin for Linux</description>
+<os>linux</os>
+</module>
+<module>
+<moduleID>nls</moduleID>
+<filename>nlsplug.npm</filename>
+<title>Novell Licensing Services Plugins</title>
+<version>1.0.20050113</version>
+<min-required-version>2.0.2</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/uelA_otNRUU~/nlsplug.npm
+]]>
+</url>
+<description>Licensing and Metering Plugin</description>
+</module>
+<module>
+<moduleID>NetStorage</moduleID>
+<filename>nsadmin.npm</filename>
+<title>NetStorage Management</title>
+<version>3.3.18</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/N8NNIqBaoG0~/nsadmin.npm
+]]>
+</url>
+<description>NetStorage Management Plugin</description>
+<os>netware</os>
+<os>linux</os>
+</module>
+<module>
+<moduleID>nfsgy</moduleID>
+<filename>NFSGYAdmin.npm</filename>
+<title>NFSGYAdmin</title>
+<version>1.1.20051222</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/gr9iqhEjZ1k~/NFSGYAdmin.npm
+]]>
+</url>
+<description>NFS Gateway Management Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID>NFSAdmin</moduleID>
+<filename>NFSADMIN.npm</filename>
+<title>NFS</title>
+<version>1.1.20051212</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/spsVAW9-M3g~/NFSADMIN.npm
+]]>
+</url>
+<description>NFS Management Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID>naudit</moduleID>
+<filename>naudit.npm</filename>
+<title>Novell Audit</title>
+<version>2.0.20060705</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/z6a9_5oNzvI~/naudit.npm
+]]>
+</url>
+<description>
+Novell Audit 2.0 Configuration and Reporting Plugin
+</description>
+</module>
+<module>
+<moduleID>NTPTimeSync</moduleID>
+<filename>NTPTimeSync.npm</filename>
+<title>NTPTimeSync</title>
+<version>1.0.0.20050729</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/Nxk4AlduVHU~/NTPTimeSync.npm
+]]>
+</url>
+<description>NTP/Timesync Administration Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID selected="true">novell_imanager_pwdmanagement_plugins</moduleID>
+<filename>PwdManagementPlugins_IMAN_2_6.npm</filename>
+<title>Novell iManager Password Management</title>
+<version>10.4.20070926</version>
+<min-required-version>2.6.0</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/TRpDmxKDCPQ~/PwdManagementPlugins_IMAN_2_6.npm
+]]>
+</url>
+<description>
+Novell iManager Password Management Plug-ins for Security Services 2.0.5
+</description>
+</module>
+<module>
+<moduleID>QFSearch</moduleID>
+<filename>QFSearch.npm</filename>
+<title>QuickFinder Server Management</title>
+<version>1.0.20050727</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/c-sJdoPcB-8~/QFSearch.npm
+]]>
+</url>
+<description>QuickFinder Server Management</description>
+<os>netware</os>
+<os>linux</os>
+</module>
+<module>
+<moduleID>SecretStore</moduleID>
+<filename>secretstore.npm</filename>
+<title>
+Novell Identity Manager - Secret Store Administration Plug-ins
+</title>
+<version>10.0.20060720</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/5gLLgUlJGys~/patchfiles/secretstore.npm
+]]>
+</url>
+<description>Secret Store Administration Plugin</description>
+</module>
+<module>
+<moduleID>SMS</moduleID>
+<filename>sms.npm</filename>
+<title>SMS Module</title>
+<version>2.1.0.20051212</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/GA04x_BrNA8~/sms.npm
+]]>
+</url>
+<description>SMS Management Plugin</description>
+<os>netware</os>
+<os>linux</os>
+</module>
+<module>
+<moduleID>nssmgmt</moduleID>
+<filename>nssmgmt.npm</filename>
+<title>Storage Management</title>
+<version>3.2.0.20061019</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/wYanihNgTEo~/StorageRelatedPlugins.zip
+]]>
+</url>
+<description>
+(NSS) Storage Management Plugin (Requires Storage Shared plug-in)
+</description>
+</module>
+<module>
+<moduleID>storage</moduleID>
+<filename>storagemgmt.npm</filename>
+<title>Storage Shared</title>
+<version>3.2.0.20061130</version>
+<min-required-version>2.5</min-required-version>
+<max-required-version>2.6.0</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/wYanihNgTEo~/StorageRelatedPlugins.zip
+]]>
+</url>
+<description>
+Storage Shared Management Plugin - Required for NCS, NSS and ARK plug-ins
+</description>
+</module>
+<module>
+<moduleID>WebLook</moduleID>
+<filename>WebLook.npm</filename>
+<title>Install and Upgrade</title>
+<version>1.0.20051018</version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/8fAVA5GqT58~/WebLook.npm
+]]>
+</url>
+<description>Utililites for Installing NetWare 6.5 Plugin</description>
+<os>netware</os>
+</module>
+<module>
+<moduleID>zfsca</moduleID>
+<filename>zfsca.npm</filename>
+<title>ZENworks Server Management Certificate Authority</title>
+<version>6.5.0</version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/pVzCw0baxLc~/zsm65_pds_plugins.zip
+]]>
+</url>
+<description>ZENworks Certificate Authority Plugin</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_88_iMan27_Plugins.npm</filename>
+<title>eDirectory88 Plugins</title>
+<version>2.7.20130722</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/cached/designer/imanager_plugins/eDir_88_iMan27_Plugins.npm
+]]>
+</url>
+<description>eDirectory 8.8 Plugins</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_88_iMan27_Plugins.npm</filename>
+<title>eDirectory88 Plugins</title>
+<version>2.7.20170914</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir888P11/eDir_88_iMan27_Plugins.npm
+]]>
+</url>
+<description>eDirectory88 Plugins</description>
+</module>
+<module>
+<moduleID>naudit</moduleID>
+<title>Novell Audit</title>
+<filename>naudit.npm</filename>
+<version>2.7.20080626</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/3HrXxSv7t-g~/naudit.npm
+]]>
+</url>
+<description>Novell Audit configuration and Reporting</description>
+</module>
+<module>
+<moduleID>FTPAdmin</moduleID>
+<title>FTP</title>
+<filename>FTPAdmin.npm</filename>
+<version>1.1.20070910</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/bpxnwL7rFzQ~/FTPAdmin.npm
+]]>
+</url>
+<description>Allows management of FTP</description>
+</module>
+<module>
+<moduleID>NFSAdmin</moduleID>
+<title>NFS</title>
+<filename>NFSADMIN.npm</filename>
+<version>1.1.20100901</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/iUiCdt7TMCM~/NFSADMIN.npm
+]]>
+</url>
+<description>Allows management of NFS</description>
+</module>
+<module>
+<moduleID>nfsgy</moduleID>
+<filename>NFSGYAdmin.npm</filename>
+<title>NFSGYAdmin</title>
+<version>1.1.20070919</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/tNg8kmNlI2g~/NFSGYAdmin.npm
+]]>
+</url>
+<description>Allows management of NFS Gateway</description>
+</module>
+<module>
+<moduleID>LinuxUserManagement</moduleID>
+<title>LinuxUserManagement Module</title>
+<filename>LinuxUserManagement.npm</filename>
+<version>2.3.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/P7LvA6GgKVs~/LinuxUserManagement.npm
+]]>
+</url>
+<description>LinuxUserManagement iManager Module.</description>
+</module>
+<module>
+<moduleID>afp</moduleID>
+<title>AFP Management</title>
+<filename>afpmgmt.npm</filename>
+<version>3.4.2.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>AFP Management Plugin</description>
+</module>
+<module>
+<moduleID>ark</moduleID>
+<title>Archive Versioning</title>
+<filename>arkmgmt.npm</filename>
+<version>3.2.1.20120705</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Archive Versioning Plugin</description>
+</module>
+<module>
+<moduleID>cifsmgmt</moduleID>
+<title>CIFS Management</title>
+<filename>cifsmgmt.npm</filename>
+<version>3.4.2.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Novell CIFS Plugin</description>
+</module>
+<module>
+<moduleID>dfsmgmt</moduleID>
+<title>Distributed File Services Management</title>
+<filename>dfsmgmt.npm</filename>
+<version>1.0.0.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Distributed File Services Management Plugin</description>
+</module>
+<module>
+<moduleID>ncs</moduleID>
+<title>Cluster Services</title>
+<filename>ncsmgmt.npm</filename>
+<version>3.3.0.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Cluster Services Management Plugin</description>
+</module>
+<module>
+<moduleID>nssmgmt</moduleID>
+<title>Storage Management</title>
+<filename>nssmgmt.npm</filename>
+<version>3.3.1.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Storage Management Plugin</description>
+</module>
+<module>
+<moduleID>storage</moduleID>
+<title>Storage Shared</title>
+<filename>storagemgmt.npm</filename>
+<version>3.3.1.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Storage Shared Management Plugin</description>
+</module>
+<module>
+<moduleID>dns</moduleID>
+<title>DNS Management</title>
+<filename>dns.npm</filename>
+<version>1.1.0.20101021</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/jkiD5S3zmSY~/dnsdhcpPlugins27.zip
+]]>
+</url>
+<description>Allows management of DNS</description>
+</module>
+<module>
+<moduleID>SMS</moduleID>
+<title>SMS Module</title>
+<filename>SMS.npm</filename>
+<version>2.3.1.20120202</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/uF-4iX5-Z0I~/SMS.npm
+]]>
+</url>
+<description>Allows management of SMS</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>Novell Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>3.380.20130424</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/cached/designer/imanager_plugins/pki.npm
+]]>
+</url>
+<description>Novell Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>8.8811.20170907</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir888P11/pki.npm
+]]>
+</url>
+<description>NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>ifolder3</moduleID>
+<title>iFolder Module</title>
+<filename>iFolder3Launch.npm</filename>
+<version>2.7.1.20100618</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/3Aa415HqdX0~/iFolder3Launch.npm
+]]>
+</url>
+<description>Allows management of iFolder 3</description>
+<os>LinuxServer</os>
+</module>
+<module>
+<moduleID>dhcp</moduleID>
+<title>DHCP OES Linux</title>
+<filename>OESLinuxdhcp.npm</filename>
+<version>1.1.0.20090907</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/aw5BCUFCBHo~/dnsdhcpPlugins27.zip
+]]>
+</url>
+<description>Allows management of DHCP services on OES Linux</description>
+</module>
+<module>
+<moduleID>dhcpnetware</moduleID>
+<title>DHCP Management for NetWare</title>
+<filename>NetWaredhcp.npm</filename>
+<version>1.1.0.20080902</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.4</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/jkiD5S3zmSY~/dnsdhcpPlugins27.zip
+]]>
+</url>
+<description>DHCP Management Plugin for NetWare</description>
+</module>
+<module>
+<moduleID>NTPTimeSync</moduleID>
+<title>NTPTimeSync</title>
+<filename>NTPTimeSync.npm</filename>
+<version>1.1.0.20070914</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/8306qbdcLqM~/NTPTimeSync.npm
+]]>
+</url>
+<description>Plugin for NTP/Timesync Administration</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>3.342.20121012</version>
+<min-required-version>2.7.3</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/cached/designer/imanager_plugins/nmas.npm
+]]>
+</url>
+<description>
+Provide management of Novell's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>8.8811.20170907</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir888P11/nmas.npm
+]]>
+</url>
+<description>
+Provide management of NetIQ's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID>QFSearch</moduleID>
+<title>QuickFinder Server Management</title>
+<filename>QFSearch.npm</filename>
+<version>1.1.20080917</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/UcpISwhnsaM~/QFSearch.npm
+]]>
+</url>
+<description>iManager Plugin for QuickFinder Server Management</description>
+</module>
+<module>
+<moduleID>iPrintX</moduleID>
+<title>iPrint Linux Management Plug-in</title>
+<filename>iPrint_Linux_iMan27.npm</filename>
+<version>2.7.5.20121218</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/rbV7H8zSFWI~/iPrint-plugins27.zip
+]]>
+</url>
+<description>Allows management of iPrint services on Linux</description>
+</module>
+<module>
+<moduleID>iPrint</moduleID>
+<title>iPrint NetWare Management Plug-in</title>
+<filename>iPrint_NetWare_iMan27.npm</filename>
+<version>2.7.1.20100518</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.4</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/eXGmesYA9uc~/iPrint-plugins27.zip
+]]>
+</url>
+<description>Allows management of iPrint services on Netware</description>
+<os>NetWareServer;WindowsWorkstation</os>
+</module>
+<module>
+<moduleID>NetStorage</moduleID>
+<title>NetStorage Management</title>
+<filename>nsadmin.npm</filename>
+<version>3.4.1.0.7</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/nwTJXsWsDGA~/nsadmin.npm
+]]>
+</url>
+<description>Configures NetStorage and XTier via iManager</description>
+<os>NetWareServer;LinuxServer</os>
+</module>
+<module>
+<moduleID>fileman</moduleID>
+<title>File Manager Plugin</title>
+<filename>fileman.npm</filename>
+<version>2.7.1.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>iManager plugin for file management</description>
+</module>
+<module>
+<moduleID>nls</moduleID>
+<title>Novell Licensing Services Plugins</title>
+<filename>nlsplug.npm</filename>
+<version>1.0.1.20070710</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/yqYCs_L0Bl4~/nlsplug.npm
+]]>
+</url>
+<description>Licensing and Metering Plugins</description>
+</module>
+<module>
+<moduleID>samba</moduleID>
+<title>Samba Management</title>
+<filename>samba.npm</filename>
+<version>1.0.1.20120814</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.6</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/a1AVoDZBULo~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>iManager Samba Management Plugin</description>
+</module>
+<module>
+<moduleID>SecretStore</moduleID>
+<title>
+Novell Identity Manager - Secret Store Administration Plug-ins
+</title>
+<filename>secretstore.npm</filename>
+<version>3.410.20120321</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/GOkyTF4dtSk~/secretstore.npm
+]]>
+</url>
+<description>
+Secret Store Administration Plug-ins for Novell PaIdentity Management
+</description>
+</module>
+<module>
+<moduleID>Radius</moduleID>
+<title>Novell Radius Plugin</title>
+<filename>radius.npm</filename>
+<version>2.7.20140204</version>
+<min-required-version>2.7.0</min-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/cached/designer/imanager_plugins/radius.npm
+]]>
+</url>
+<description>Novell Radius Plugin functionality</description>
+</module>
+<module>
+<moduleID>uniqueZone</moduleID>
+<title>Unique Name Plugin</title>
+<filename>UniqueZonePlugin.npm</filename>
+<version>2.7.20090917</version>
+<min-required-version>2.7.3</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/Ex2zGPhog0g~/UniqueZonePlugin.npm
+]]>
+</url>
+<description>Plugin to ensure User names are unique</description>
+</module>
+<module>
+<moduleID>sso70</moduleID>
+<title>SecureLogin SSO 7.0</title>
+<filename>sso.npm</filename>
+<version>7.0.3.20120420</version>
+<min-required-version>2.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/KOMImVYIMDE~/sso.npm
+]]>
+</url>
+<description>SecureLogin SSO 7.0</description>
+</module>
+<module>
+<moduleID>cifsmgmt</moduleID>
+<title>CIFS Management</title>
+<filename>cifsmgmt.npm</filename>
+<version>3.4.2.20140121</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Novell CIFS Plugin</description>
+</module>
+<module>
+<moduleID>dfsmgmt</moduleID>
+<title>Distributed File Services Management</title>
+<filename>dfsmgmt.npm</filename>
+<version>1.0.0.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Distributed File Services Management Plugin</description>
+</module>
+<module>
+<moduleID>ncs</moduleID>
+<title>Cluster Services</title>
+<filename>ncsmgmt.npm</filename>
+<version>3.3.0.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Cluster Services Management Plugin</description>
+</module>
+<module>
+<moduleID>nssmgmt</moduleID>
+<title>Storage Management</title>
+<filename>nssmgmt.npm</filename>
+<version>3.3.1.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Storage Management Plugin</description>
+</module>
+<module>
+<moduleID>storage</moduleID>
+<title>Storage Shared</title>
+<filename>storagemgmt.npm</filename>
+<version>3.3.1.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Storage Shared Management Plugin</description>
+</module>
+<module>
+<moduleID>fileman</moduleID>
+<title>File Manager Plugin</title>
+<filename>fileman.npm</filename>
+<version>2.7.1.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>iManager plugin for file management</description>
+</module>
+<module>
+<moduleID>samba</moduleID>
+<title>Samba Management</title>
+<filename>samba.npm</filename>
+<version>1.0.1.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>iManager Samba Management Plugin</description>
+</module>
+<module>
+<moduleID>afp</moduleID>
+<title>AFP Management</title>
+<filename>afpmgmt.npm</filename>
+<version>3.4.2.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>AFP Management Plugin</description>
+</module>
+<module>
+<moduleID>ark</moduleID>
+<title>Archive Versioning</title>
+<filename>arkmgmt.npm</filename>
+<version>3.2.1.20130923</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/p1jIXKa3TiQ~/StorageRelatedPlugins27.zip
+]]>
+</url>
+<description>Archive Versioning Plugin</description>
+</module>
+<module>
+<moduleID>SMS</moduleID>
+<title>SMS Module</title>
+<filename>SMS.npm</filename>
+<version>2.3.1.20130926</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/iDblXreqZbA~/SMS.npm
+]]>
+</url>
+<description>Allows management of SMS</description>
+</module>
+<module>
+<moduleID>ifolder3</moduleID>
+<title>iFolder Module</title>
+<filename>iFolder3Launch.npm</filename>
+<version>2.7.1.20131017</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/dWSHvAd8NDw~/iFolder3Launch.npm
+]]>
+</url>
+<description>Allows management of iFolder 3</description>
+<os>LinuxServer</os>
+</module>
+<module>
+<moduleID>QFSearch</moduleID>
+<title>QuickFinder Server Management</title>
+<filename>QFSearch.npm</filename>
+<version>1.1.20080917</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/ZS2LN5kju5s~/QFSearch.npm
+]]>
+</url>
+<description>iManager Plugin for QuickFinder Server Management</description>
+</module>
+<module>
+<moduleID>iPrintX</moduleID>
+<title>iPrint Linux Management Plug-in</title>
+<filename>iPrint_Linux_iMan27.npm</filename>
+<version>2.7.6.20131217</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url type="zip">
+<![CDATA[
+https://cdn.microfocus.com/free/gxNUNncpZHw~/iPrint_Linux_iMan27.npm
+]]>
+</url>
+<description>Allows management of iPrint services on Linux</description>
+</module>
+<module>
+<moduleID>NetStorage</moduleID>
+<title>NetStorage Management</title>
+<filename>nsadmin.npm</filename>
+<version>3.4.4.0.7.25</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/5HGcphUV9qo~/nsadmin.npm
+]]>
+</url>
+<description>Configures NetStorage and XTier via iManager</description>
+<os>NetWareServer;LinuxServer</os>
+</module>
+<module>
+<moduleID>LinuxUserManagement</moduleID>
+<title>LinuxUserManagement Module</title>
+<filename>LinuxUserManagement.npm</filename>
+<version>2.3.20140113</version>
+<min-required-version>2.7.7</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/X1zXm0Z9mog~/LinuxUserManagement.npm
+]]>
+</url>
+<description>LinuxUserManagement iManager Module.</description>
+</module>
+<module>
+<moduleID>groupwise</moduleID>
+<title>GroupWise Plugins</title>
+<filename>gw_iManager_plug-in_1.0.0.20171206.npm</filename>
+<version>1.0.0.20171130</version>
+<min-required-version>2.7</min-required-version>
+<max-required-version>3.1</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/free/-TXWK0ukM94~/gw_iManager_plug-in_1.0.0.20171206.npm
+]]>
+</url>
+<description>GroupWise Management Tools.</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_IMANPlugins.npm</filename>
+<title>eDirectory90 Plugins</title>
+<version>3.0.20170922</version>
+<min-required-version>3.0.0</min-required-version>
+<max-required-version>3.0.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir904/eDir_IMANPlugins.npm
+]]>
+</url>
+<description>eDirectory90 Plugins</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>9.0.2.20161117</version>
+<min-required-version>3.0.2</min-required-version>
+<max-required-version>3.0.4</max-required-version>
+<url>
+<![CDATA[
+https://cdn.microfocus.com/cached/designer/imanager_plugins/902/pki.npm
+]]>
+</url>
+<description> NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>9.0.4.20170923</version>
+<min-required-version>3.0.2</min-required-version>
+<max-required-version>3.0.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir904/pki.npm
+]]>
+</url>
+<description> NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>9.000.20170923</version>
+<min-required-version>3.0.0</min-required-version>
+<max-required-version>3.0.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir904/nmas.npm
+]]>
+</url>
+<description>
+Provide management of NetIQ's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID>novell_idm_plugins</moduleID>
+<filename>IDMPlugins_IMAN_2_7_IDM_4_6_2_0.npm</filename>
+<title>NetIQ Identity Manager</title>
+<version>10.7.20171110</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.6.2/IDMPlugins_IMAN_2_7_IDM_4_6_2_0.npm
+]]>
+</url>
+<description>
+NetIQ Identity Manager iManager 2.7 Plug-ins for IDM 4.6.2.0 and IDM 4.5.6.0
+</description>
+</module>
+<module>
+<moduleID>novell_idm_plugins</moduleID>
+<filename>IDMPlugins_IMAN_3_0_IDM_4_7_0_0.npm</filename>
+<title>NetIQ Identity Manager</title>
+<version>10.7.20180219</version>
+<min-required-version>3.0.0</min-required-version>
+<max-required-version>3.1.1</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.7/IDMPlugins_IMAN_3_0_IDM_4_7_0_0.npm
+]]>
+</url>
+<description>NetIQ Identity Manager iManager Plug-ins</description>
+</module>
+<module>
+<moduleID>novell_idm_plugins</moduleID>
+<filename>IDMPlugins_IMAN_3_1_IDM_4_7_2_1.npm</filename>
+<title>NetIQ Identity Manager</title>
+<version>10.7.20190213</version>
+<min-required-version>3.1.2</min-required-version>
+<max-required-version>3.1.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.7.2.1/IDMPlugins_IMAN_3_1_IDM_4_7_2_1.npm
+]]>
+</url>
+<description>NetIQ Identity Manager iManager Plug-ins</description>
+</module>
+<module>
+<moduleID>novell_pwdmanagement_plugins</moduleID>
+<title>NetIQ iManager Password Management</title>
+<filename>PwdManagementPlugins_IMAN_2_7.npm</filename>
+<version>10.7.20171110</version>
+<min-required-version>2.7.0</min-required-version>
+<max-required-version>2.7.8</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.6.2/PwdManagementPlugins_IMAN_2_7.npm
+]]>
+</url>
+<description>NetIQ iManager 2.7 Password Management Plug-ins</description>
+</module>
+<module>
+<moduleID>novell_pwdmanagement_plugins</moduleID>
+<title>NetIQ iManager Password Management</title>
+<filename>PwdManagementPlugins_IMAN_3_0.npm</filename>
+<version>10.7.20180219</version>
+<min-required-version>3.0.0</min-required-version>
+<max-required-version>3.1.1</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.7/PwdManagementPlugins_IMAN_3_0.npm
+]]>
+</url>
+<description> NetIQ iManager Password Management Plug-ins</description>
+</module>
+<module>
+<moduleID>novell_pwdmanagement_plugins</moduleID>
+<title>NetIQ iManager Password Management</title>
+<filename>PwdManagementPlugins_IMAN_3_1.npm</filename>
+<version>10.7.20190213</version>
+<min-required-version>3.1.2</min-required-version>
+<max-required-version>3.1.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.7.2.1/PwdManagementPlugins_IMAN_3_1.npm
+]]>
+</url>
+<description> NetIQ iManager Password Management Plug-ins</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>9.1.1.20180609</version>
+<min-required-version>3.1.0</min-required-version>
+<max-required-version>3.1.1</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir911/pki.npm
+]]>
+</url>
+<description> NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>9.1.1.20180609</version>
+<min-required-version>3.1.0</min-required-version>
+<max-required-version>3.1.1</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir911/nmas.npm
+]]>
+</url>
+<description>
+Provide management of NetIQ's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_IMANPlugins.npm</filename>
+<title>eDirectory90 Plugins</title>
+<version>3.1.1.20180609</version>
+<min-required-version>3.1.0</min-required-version>
+<max-required-version>3.1.1</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir911/eDir_IMANPlugins.npm
+]]>
+</url>
+<description>eDirectory90 Plugins</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>9.1.4.20190506</version>
+<min-required-version>3.1.2</min-required-version>
+<max-required-version>3.1.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir914/pki.npm
+]]>
+</url>
+<description> NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>9.1.4.20190511</version>
+<min-required-version>3.1.2</min-required-version>
+<max-required-version>3.1.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir914/nmas.npm
+]]>
+</url>
+<description>
+Provide management of NetIQ's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_IMANPlugins.npm</filename>
+<title>eDirectory90 Plugins</title>
+<version>3.1.4.20190521</version>
+<min-required-version>3.1.2</min-required-version>
+<max-required-version>3.1.4</max-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir914/eDir_IMANPlugins.npm
+]]>
+</url>
+<description>eDirectory90 Plugins</description>
+</module>
+<module>
+<moduleID>CertServerPlugins</moduleID>
+<title>NetIQ Certificate Server Plug-ins for iManager</title>
+<filename>pki.npm</filename>
+<version>9.2.0.20191004</version>
+<min-required-version>3.2.0</min-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir920/pki.npm
+]]>
+</url>
+<description> NetIQ Certificate Management in eDirectory</description>
+</module>
+<module>
+<moduleID>NMAS</moduleID>
+<title>NMAS Plug-ins for iManager</title>
+<filename>nmas.npm</filename>
+<version>9.2.0.20191004</version>
+<min-required-version>3.2.0</min-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir920/nmas.npm
+]]>
+</url>
+<description>
+Provide management of NetIQ's Modular Authentication Services in eDirectory
+</description>
+</module>
+<module>
+<moduleID selected="true">eDirectory88_Plugins</moduleID>
+<filename>eDir_IMANPlugins.npm</filename>
+<title>eDirectory90 Plugins</title>
+<version>3.2.0.20191004</version>
+<min-required-version>3.2.0</min-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/eDir920/eDir_IMANPlugins.npm
+]]>
+</url>
+<description>eDirectory90 Plugins</description>
+</module>
+<module>
+<moduleID>novell_pwdmanagement_plugins</moduleID>
+<title>NetIQ iManager Password Management</title>
+<filename>PwdManagementPlugins_IMAN_3_2.npm</filename>
+<version>10.7.20191011</version>
+<min-required-version>3.2.0</min-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.8.0/PwdManagementPlugins_IMAN_3_2.npm
+]]>
+</url>
+<description> NetIQ iManager Password Management Plug-ins</description>
+</module>
+<module>
+<moduleID>novell_idm_plugins</moduleID>
+<filename>IDMPlugins_IMAN_3_2_IDM_4_8_0_0.npm</filename>
+<title>NetIQ Identity Manager</title>
+<version>10.7.20191011</version>
+<min-required-version>3.2.0</min-required-version>
+<url>
+<![CDATA[
+https://nu.novell.com/designer/imanager_plugins/IDM4.8.0/IDMPlugins_IMAN_3_2_IDM_4_8_0_0.npm
+]]>
+</url>
+<description>NetIQ Identity Manager iManager Plug-ins</description>
+</module>
+<head/>
+<head/>
+<head/>
+</modules>
